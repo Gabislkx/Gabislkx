@@ -1,14 +1,10 @@
 
 <div>
   <a href="https://github.com/Gabislkx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Maria+Gabriela+Bonif%C3%A1cio+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Maria Gabriela Bonifacio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Developer+Front-end+" alt="Maria Gabriela Bonifacio" />
   </a>
 </div>
 
-#
-
- Olá sou Maria Gabriela estudante de computação pela UFF e Front-end Developer jr.
-#
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
@@ -89,7 +85,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Gabislkx&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
