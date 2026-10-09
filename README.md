@@ -4,7 +4,7 @@
   
 <div>
   <a href="https://github.com/Gabislkx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=524&lines=FRONT-END+DEVELOPER+" alt="Maria Gabriela Bonifacio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&left=true&vCenter=true&width=524&lines=FRONT-END+DEVELOPER+" alt="Maria Gabriela Bonifacio" />
   </a>
 </div>
 
