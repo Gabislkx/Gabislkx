@@ -1,6 +1,6 @@
 
 
-  <img src=".githubworkflows/Monocromático Paisagem Tumblr Banner.gif" alt="Maria Gabriela Bonifacio" />
+  <img src="" alt="Maria Gabriela Bonifacio" />
   
 
 
