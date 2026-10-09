@@ -2,11 +2,7 @@
 
   <img src=".githubworkflows/Monocromático Paisagem Tumblr Banner.gif" alt="Maria Gabriela Bonifacio" />
   
-<div>
-  <a href="https://github.com/Gabislkx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&left=true&vCenter=true&width=524&lines=FRONT-END+DEVELOPER+" alt="Maria Gabriela Bonifacio" />
-  </a>
-</div>
+
 
 
 <img  align="left" alt="" height="190px" src="./src/edgerunners.gif">
