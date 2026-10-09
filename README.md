@@ -1,8 +1,8 @@
 
 <div align="center">
- <a href="https://github.com/Gabislkx">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Maria+Gabriela+Bonifácio+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/Gabislkx">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Maria+Gabriela+Bonif%C3%A1cio+!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Maria Gabriela Bonifacio" />
+  </a>
 </div>
 
 #
