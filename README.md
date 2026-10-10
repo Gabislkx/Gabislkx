@@ -4,7 +4,8 @@ Z<img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentati
 ---
 
 <img align="left" alt="" height="190px" src="./src/edgerunners.gif">
-
+<h2 align="left" >Olá sou Maria Gabriela estudante de tecnologia em sistemas de computação pela UFF, desenvolvedora Front-end e sigo na minha carreira fazendo cursos de redes e Back-end.
+  É seja bem vindo esse são os meus projetos e pretendo melhoras cada vez mais para me tronar uma desenvolvedora pleno.<h2>
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:Maria2007gabih@gmail.com)
