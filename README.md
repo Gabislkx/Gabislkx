@@ -1,6 +1,6 @@
 
 
-  <img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentation (Banner para YouTube).gif" alt="Maria Gabriela Bonifacio" />
+  <img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentation (2560 x 1000 px).gif" alt="Maria Gabriela Bonifacio" />
   
 
 
