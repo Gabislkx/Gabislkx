@@ -6,6 +6,7 @@
 <img align="left" alt="" height="190px" src="./src/edgerunners.gif">
 <h3 align="left" >Olá sou Maria Gabriela estudante de tecnologia em sistemas de computação pela UFF, desenvolvedora Front-end jr e sigo na minha carreira fazendo cursos de redes e Back-end para melhor desenvolvimento profissional.
   É seja bem vindo esse são os meus projetos e pretendo melhora-los cada vez mais para me tronar uma desenvolvedora pleno.<h3>
+    <br>
 ---
 <h3 align="left">Connect with me!</h3>
 
