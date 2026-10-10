@@ -1,5 +1,6 @@
 <img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentation (2560 x 1000 px).gif" alt="Maria Gabriela Bonifacio" />
 <br/>
+---
 
 <img align="left" alt="" height="190px" src="./src/edgerunners.gif">
 
@@ -10,7 +11,7 @@
 
 <br clear="all">
 <br/>
-
+---
 <h3 align="left">My Stack</h3>
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -25,7 +26,7 @@
 
 <br clear="all">
 <br/>
-
+---
 <h3 align="left">GitHub Stats</h3>
 
 <p>
@@ -36,8 +37,7 @@
 <br clear="all">
 <br/>
 
-<!-- IMPORTANTE: A cobrinha abaixo está puxando dados de "paulopontodev".
-     Para ter a sua própria, você precisa gerar via GitHub Actions no seu perfil. -->
+---
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
