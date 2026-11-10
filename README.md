@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="./src/banner.svg" alt="Maria Gabriela Bonifacio - Front-end Developer" width="100%" />
-  <br/>
-  <a href="https://github.com/Gabislkx">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF2FD0&center=true&vCenter=true&width=760&lines=%3E+PRESS+START;%3E+PLAYER+1+CONNECTED;%3E+LOADING+MARIA+GABRIELA...;%3E+CLASS%3A+FRONT-END+DEVELOPER" alt="Typing SVG" />
-  </a>
-</div>
+public class App {
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
+<img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentation (2560 x 1000 px).gif" alt="Maria Gabriela Bonifacio" />
+<br/>
 
-<img src="./src/divider.svg" width="100%" alt="" />
-
-<img src="./src/h-player.svg" width="100%" alt="PLAYER 1" />
+---
 
 <img align="left" alt="" height="190px" src="./src/edgerunners.gif">
 <h3 align="left">
@@ -17,63 +15,50 @@
   Seja bem-vindo! Esses são os meus projetos e pretendo melhorá-los cada vez mais para me tornar uma desenvolvedora Pleno.
 </h3>
 <br clear="all">
+<br>
 
-<div align="center">
-  <img src="./src/player-card.svg" width="600" alt="Ficha do jogador: Maria Gabriela, Front-end Jr, UFF, side quest Redes e Back-end, objetivo Pleno" />
-</div>
+---
 
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:Maria2007gabih@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Mariagabrielabonifacio/)
+
+<br clear="all">
+<br>
+
+---
+
+<h3 align="left">My Stack</h3>
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Github" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+<br clear="all">
 <br/>
-<img src="./src/divider.svg" width="100%" alt="" />
 
-<img src="./src/h-multi.svg" width="100%" alt="MULTIPLAYER" />
+---
 
-<div align="center">
+<h3 align="left">GitHub Stats</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-0d0a1f?style=for-the-badge&logo=microsoft-outlook&logoColor=FF2FD0)](mailto:Maria2007gabih@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0a1f?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/Mariagabrielabonifacio/)
-
-</div>
-
-<img src="./src/divider.svg" width="100%" alt="" />
-
-<img src="./src/h-inventory.svg" width="100%" alt="INVENTORY" />
-
-<div align="center">
-<table>
-  <tr align="center">
-    <td width="100"><img alt="HTML" title="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><br/><sub><b>HTML</b></sub></td>
-    <td width="100"><img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><br/><sub><b>CSS</b></sub></td>
-    <td width="100"><img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br/><sub><b>JavaScript</b></sub></td>
-    <td width="100"><img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /><br/><sub><b>GitHub</b></sub></td>
-  </tr>
-  <tr align="center">
-    <td width="100"><img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><br/><sub><b>Git</b></sub></td>
-    <td width="100"><img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br/><sub><b>Python</b></sub></td>
-    <td width="100"><img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br/><sub><b>React</b></sub></td>
-    <td width="100"><img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><br/><sub><b>MySQL</b></sub></td>
-  </tr>
-</table>
-</div>
-
-<img src="./src/divider.svg" width="100%" alt="" />
-
-<img src="./src/h-stats.svg" width="100%" alt="HUD STATS" />
-
-<p align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Gabislkx&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=0d0a1f&title_color=ff2fd0&text_color=ffffff&icon_color=00e5ff&border_color=ff2fd0&ring_color=00ff9c&border_radius=0&custom_title=PLAYER%20STATS" />
-  <img alt="GitHub Top Langs" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Gabislkx&layout=compact&custom_title=SKILL%20TREE&langs_count=8&bg_color=0d0a1f&title_color=ff2fd0&text_color=ffffff&icon_color=00e5ff&border_color=ff2fd0&border_radius=0" />
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Gabislkx&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
+  <img align="left" alt="GitHub Top Langs" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Gabislkx&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
 </p>
 
-<img src="./src/divider.svg" width="100%" alt="" />
-
-<img src="./src/h-bonus.svg" width="100%" alt="BONUS STAGE" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabislkx/Gabislkx/output/github-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabislkx/Gabislkx/output/github-snake.svg">
-  <img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/Gabislkx/Gabislkx/output/github-snake.svg" width="100%">
-</picture>
-
+<br clear="all">
 <br/>
 
-<img src="./src/footer.svg" width="100%" alt="Obrigada por jogar. Insert coin to continue." />
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
