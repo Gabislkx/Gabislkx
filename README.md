@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Maria Gabriela Bonifacio - Front-end Developer" width="100%" />
+  <img src="./src/banner.svg" alt="Maria Gabriela Bonifacio - Front-end Developer" width="100%" />
   <br/>
   <a href="https://github.com/Gabislkx">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF2FD0&center=true&vCenter=true&width=760&lines=%3E+PRESS+START;%3E+PLAYER+1+CONNECTED;%3E+LOADING+MARIA+GABRIELA...;%3E+CLASS%3A+FRONT-END+DEVELOPER" alt="Typing SVG" />
   </a>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./src/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-player.svg" width="100%" alt="PLAYER 1" />
+<img src="./src/h-player.svg" width="100%" alt="PLAYER 1" />
 
 <img align="left" alt="" height="190px" src="./src/edgerunners.gif">
 <h3 align="left">
@@ -19,13 +19,13 @@
 <br clear="all">
 
 <div align="center">
-  <img src="./assets/player-card.svg" width="600" alt="Ficha do jogador: Maria Gabriela, Front-end Jr, UFF, side quest Redes e Back-end, objetivo Pleno" />
+  <img src="./src/player-card.svg" width="600" alt="Ficha do jogador: Maria Gabriela, Front-end Jr, UFF, side quest Redes e Back-end, objetivo Pleno" />
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./src/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-multi.svg" width="100%" alt="MULTIPLAYER" />
+<img src="./src/h-multi.svg" width="100%" alt="MULTIPLAYER" />
 
 <div align="center">
 
@@ -34,9 +34,9 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./src/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-inventory.svg" width="100%" alt="INVENTORY" />
+<img src="./src/h-inventory.svg" width="100%" alt="INVENTORY" />
 
 <div align="center">
 <table>
@@ -55,18 +55,18 @@
 </table>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./src/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-stats.svg" width="100%" alt="HUD STATS" />
+<img src="./src/h-stats.svg" width="100%" alt="HUD STATS" />
 
 <p align="center">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Gabislkx&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=0d0a1f&title_color=ff2fd0&text_color=ffffff&icon_color=00e5ff&border_color=ff2fd0&ring_color=00ff9c&border_radius=0&custom_title=PLAYER%20STATS" />
   <img alt="GitHub Top Langs" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Gabislkx&layout=compact&custom_title=SKILL%20TREE&langs_count=8&bg_color=0d0a1f&title_color=ff2fd0&text_color=ffffff&icon_color=00e5ff&border_color=ff2fd0&border_radius=0" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./src/divider.svg" width="100%" alt="" />
 
-<img src="./assets/h-bonus.svg" width="100%" alt="BONUS STAGE" />
+<img src="./src/h-bonus.svg" width="100%" alt="BONUS STAGE" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabislkx/Gabislkx/output/github-snake.svg">
@@ -76,4 +76,4 @@
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Obrigada por jogar. Insert coin to continue." />
+<img src="./src/footer.svg" width="100%" alt="Obrigada por jogar. Insert coin to continue." />
