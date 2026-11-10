@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 12" width="840" height="12" shape-rendering="crispEdges" role="presentation">
+<style>
+.blink{animation:blink 1s steps(1) infinite}
+.tw{animation:tw 2s steps(2) infinite}
+.bob{animation:bob 1s steps(1) infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes tw{0%,100%{opacity:1}50%{opacity:.15}}
+@keyframes bob{0%,49%{transform:translateY(0)}50%,100%{transform:translateY(-4px)}}
+</style>
+<rect class="tw" style="animation-delay:0.0s" x="4" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="20" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="36" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="52" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="68" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="84" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="100" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="116" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="132" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="148" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="164" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="180" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="196" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="212" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="228" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="244" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="260" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="276" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="292" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="308" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="324" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="340" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="356" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="372" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="388" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="404" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="420" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="436" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="452" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="468" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="484" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="500" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="516" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="532" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="548" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="564" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="580" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="596" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="612" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="628" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="644" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="660" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="676" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="692" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="708" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="724" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="740" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="756" y="2" width="8" height="8" fill="#00ff9c"/>
+<rect class="tw" style="animation-delay:0.0s" x="772" y="2" width="8" height="8" fill="#ff2fd0"/>
+<rect class="tw" style="animation-delay:0.5s" x="788" y="2" width="8" height="8" fill="#00e5ff"/>
+<rect class="tw" style="animation-delay:1.0s" x="804" y="2" width="8" height="8" fill="#ffe14d"/>
+<rect class="tw" style="animation-delay:1.5s" x="820" y="2" width="8" height="8" fill="#00ff9c"/>
+</svg>
