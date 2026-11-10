@@ -1,8 +1,4 @@
-public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
-}
+
 <img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentation (2560 x 1000 px).gif" alt="Maria Gabriela Bonifacio" />
 <br/>
 
