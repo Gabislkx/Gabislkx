@@ -5,9 +5,9 @@
 
 ---
 
-### `>` `about_me.md`
+### SOBRE MIM
 
-<img align="left" alt="Motion Art" height="190px" style="padding-right: 16px; border-radius: 8px;" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (1).gif">
+
 
 <p align="left">
   Olá! Sou <strong>Maria Gabriela</strong>, estudante de <strong>Tecnologia em Sistemas de Computação</strong> pela <strong>UFF</strong> e desenvolvedora <strong>Front-end Jr.</strong> em constante evolução rumo ao nível <strong>Pleno</strong>.
