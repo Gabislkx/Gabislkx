@@ -1,5 +1,4 @@
 <div align="center">
-  <img src=".githubworkflows/Blue and White Modern Metaverse Expansion Presentation (2560 x 1000 px).gif" alt="Maria Gabriela Bonifacio" width="100%" />
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:250202,50:892325,100:F10222&height=120&section=header&text=Maria%20Gabriela%20Bonif%C3%A1cio&fontSize=32&fontColor=FFF9F2&animation=twinkling" alt="Banner Maria Gabriela Bonifácio" />
 </div>
@@ -20,9 +19,7 @@
 
 ---
 
-### `>` `tech_stack.sh`
-
-<img align="left" alt="Motion Art Stack" height="190px" style="padding-right: 16px; border-radius: 8px;" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (1).gif">
+### MY STRACKS 
 
 <div style="background-color: rgba(0, 0, 0, 0.55); border: 1px solid rgba(255, 249, 242, 0.22); border-radius: 12px; padding: 18px 20px; overflow: hidden;">
   <p style="margin: 0 0 14px 0; color: #FFF9F2;">
@@ -47,11 +44,7 @@
 
 ---
 
-### `>` `statistics.json`
-
-<img align="left" alt="Motion Art Metrics" height="190px" style="padding-right: 16px; border-radius: 8px;" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (2).gif">
-
-<br>
+### ESTATISTICAS
 
 <p align="left">
   <img alt="GitHub Stats" height="185" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Gabislkx&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=18,FFF9F2,FFF9F2&title_color=FFF9F2&text_color=FFF9F2&icon_color=FFF9F2&border_color=66,FFF9F2,FFF9F2&ring_color=FFF9F2&custom_title=GitHub%20Stats" />
@@ -66,7 +59,7 @@
 
 ---
 
-### `>` `contribution_graph.svg`
+### CONTRIBUIÇÕES
 
 <div align="center">
   <picture>
@@ -78,7 +71,7 @@
 
 ---
 
-### `>` `connect.sh`
+### CONTATO
 
 <p align="left">
   <a href="mailto:maria2007gabih@gmail.com">
