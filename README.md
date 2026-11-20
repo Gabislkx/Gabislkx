@@ -4,7 +4,7 @@
 
 ---
 
-<img align="left" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="left" alt="" height="190px" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (2).gif">
 <h3 align="left">
   Olá! Sou Maria Gabriela, estudante de Tecnologia em Sistemas de Computação pela UFF e desenvolvedora Front-end Jr. Sigo na minha carreira fazendo cursos de Redes e Back-end para o meu melhor desenvolvimento profissional.
   <br><br>
