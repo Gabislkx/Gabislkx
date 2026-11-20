@@ -4,7 +4,7 @@
 
 ---
 
-<img align="left" alt="" height="190px" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (2).gif">
+<img align="left" alt="" height="190px" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (1).gif">
 <h3 align="left">
   Olá! Sou Maria Gabriela, estudante de Tecnologia em Sistemas de Computação pela UFF e desenvolvedora Front-end Jr. Sigo na minha carreira fazendo cursos de Redes e Back-end para o meu melhor desenvolvimento profissional.
   <br><br>
@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
+<img align="left" alt="" height="190px" src="./Black Modern Animated 3D Motion Art Exhibition Instagram Story (500 x 100 mm) (2).gif">
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Gabislkx&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
