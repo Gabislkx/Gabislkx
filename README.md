@@ -1,13 +1,8 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/Gabislkx/Gabislkx/main/banner-gabislkx-perigo.gif" alt="Gabislkx" width="100%" />
+<br /><br />
 
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      <h2>Maria Gabriela Bonifácio</h2>
-      <sub>Estudante de Tecnologia em Sistemas de Computação na UFF e desenvolvedora front-end júnior,<br />evoluindo para back-end, full-stack e redes de computadores.</sub>
-    </td>
-  </tr>
-</table>
+<h2>Maria Gabriela Bonifácio</h2>
+<sub>Estudante de Tecnologia em Sistemas de Computação na UFF e desenvolvedora front-end júnior,<br />evoluindo para back-end, full-stack e redes de computadores.</sub>
 
 </div>
 
@@ -56,7 +51,7 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Calendário de contribuições" width="95%" />
+<img src="https://raw.githubusercontent.com/Gabislkx/Gabislkx/output/github-contribution-grid-snake-dark.svg" alt="Calendário de contribuições" width="95%" />
 
 </div>
 
