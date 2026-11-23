@@ -1,86 +1,180 @@
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:250202,50:892325,100:F10222&height=120&section=header&text=Maria%20Gabriela%20Bonif%C3%A1cio&fontSize=32&fontColor=FFF9F2&animation=twinkling" alt="Banner Maria Gabriela Bonifácio" />
+
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <h2>Maria Gabriela Bonifácio</h2>
+      <sub>Estudante de Tecnologia em Sistemas de Computação na UFF e desenvolvedora front-end júnior,<br />evoluindo para back-end, full-stack e redes de computadores.</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
-
-### SOBRE MIM
-
-
-
-<p align="left">
-  Olá! Sou <strong>Maria Gabriela</strong>, estudante de <strong>Tecnologia em Sistemas de Computação</strong> pela <strong>UFF</strong> e desenvolvedora <strong>Front-end Jr.</strong> em constante evolução rumo ao nível <strong>Pleno</strong>.
-  <br><br>
-  Atualmente aprofundo meus conhecimentos em <strong>Redes</strong> e <strong>Back-end</strong>, unindo interfaces modernas, responsivas e interativas a uma base sólida de arquitetura e lógica de sistemas.
-</p>
-
-<br clear="all">
-
----
-
-### MY STRACKS 
-
-<div style="background-color: rgba(0, 0, 0, 0.55); border: 1px solid rgba(255, 249, 242, 0.22); border-radius: 12px; padding: 18px 20px; overflow: hidden;">
-  <p style="margin: 0 0 14px 0; color: #FFF9F2;">
-    <strong>Linguagens, Frameworks &amp; Ferramentas</strong>
-  </p>
-  <p style="margin: 0 0 14px 0;">
-    <img alt="HTML5" title="HTML5" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS3" title="CSS3" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img alt="React" title="React" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img alt="Python" title="Python" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img alt="MySQL" title="MySQL" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img alt="Git" title="Git" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="GitHub" title="GitHub" width="34px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  </p>
-  <p style="margin: 0; color: #FFF9F2;">
-    <code>Front-end</code> · <code>React &amp; SPA</code> · <code>Redes</code> · <code>Back-end</code> · <code>Modelagem &amp; POO</code> · <code>Git &amp; GitHub</code>
-  </p>
-</div>
-
-<br clear="all">
-
----
-
-### ESTATISTICAS
-
-<p align="left">
-  <img alt="GitHub Stats" height="185" style="padding-right: 10px;" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Gabislkx&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=18,FFF9F2,FFF9F2&title_color=FFF9F2&text_color=FFF9F2&icon_color=FFF9F2&border_color=66,FFF9F2,FFF9F2&ring_color=FFF9F2&custom_title=GitHub%20Stats" />
-  <img alt="GitHub Streak" height="185" src="https://streak-stats.demolab.com/?user=Gabislkx&locale=pt_BR&background=18,FFF9F2,FFF9F2&border=66,FFF9F2,FFF9F2&stroke=40,FFF9F2,FFF9F2&ring=FFF9F2&fire=FFF9F2&currStreakNum=FFF9F2&sideNums=FFF9F2&currStreakLabel=FFF9F2&sideLabels=FFF9F2&dates=D9CFC4" />
-</p>
-
-<br clear="all">
-
-<div align="left">
-  <img alt="Contribution Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gabislkx&bg_color=14FFF9F2&color=FFF9F2&line=FFF9F2&point=FFF9F2&area=true&area_color=22FFF9F2&hide_border=false&border_color=66FFF9F2&custom_title=Contribution%20Graph" />
-</div>
-
----
-
-### CONTRIBUIÇÕES
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://count.getloli.com/get/@Gabislkx?theme=rule34" alt="Contador de visitas" />
+      <br /><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabislkx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&title_color=ef4444&icon_color=dc2626&text_color=c9d1d9&ring_color=ef4444" alt="GitHub Stats de Gabislkx" />
+      <br /><br />
+      <img src="https://streak-stats.demolab.com?user=Gabislkx&theme=radical&hide_border=true&background=0d1117&ring=ef4444&fire=dc2626&currStreakLabel=ef4444&currStreakNum=ef4444&sideNums=ef4444&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak de Gabislkx" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### CONTATO
+<h2 align="center">Estatísticas &amp; Atividade</h2>
 
-<p align="left">
-  <a href="mailto:maria2007gabih@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-250202?style=for-the-badge&logo=gmail&logoColor=FFF9F2&labelColor=892325" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/maria-gabriela-de-lima-bonifacio-crescencio">
-    <img src="https://img.shields.io/badge/LinkedIn-250202?style=for-the-badge&logo=linkedin&logoColor=FFF9F2&labelColor=892325" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/5522981274142">
-    <img src="https://img.shields.io/badge/WhatsApp-250202?style=for-the-badge&logo=whatsapp&logoColor=FFF9F2&labelColor=892325" alt="WhatsApp" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabislkx&hide_progress=true&langs_count=6&custom_title=Linguagens%20mais%20usadas&theme=radical&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9&icon_color=dc2626" alt="Linguagens mais usadas" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabislkx&repo=Gabislkx&theme=radical&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=dc2626&text_color=c9d1d9" alt="Repositório em destaque" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://img.shields.io/github/followers/Gabislkx?label=Seguidores&style=for-the-badge&logo=github&logoColor=ef4444&color=dc2626&labelColor=0d1117" alt="Seguidores no GitHub" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabislkx&theme=react-dark&bg_color=0d1117&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=b91c1c&hide_border=true&title_color=ef4444" alt="Gráfico de contribuições" width="95%" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Calendário de contribuições" width="95%" />
+
+</div>
+
+---
+
+<h2 align="center">Languages-Frameworks-Tools</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br /><sub>HTML5</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br /><sub>CSS3</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br /><sub>JavaScript</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br /><sub>React</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48" height="48" alt="React Router" />
+      <br /><sub>React Router</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br /><sub>Vite</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br /><sub>Python</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br /><sub>Git</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">Sobre mim &amp; Projetos</h2>
+
+<div align="center">
+
+**Maria Gabriela Bonifácio** (`Gabislkx`)  
+Estudante de **Tecnologia em Sistemas de Computação na UFF** e desenvolvedora **front-end júnior**, evoluindo para **back-end**, **full-stack** e **redes de computadores**.
+
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/Portf%C3%B3lio-ef4444?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0d1117" alt="Portfólio" />
+      <br /><br />
+      <sub>Dark mode, modal de cookies e rolagem suave com GSAP, hospedado no Firebase Hosting.</sub>
+      <br /><br />
+    </td>
+    <td align="center" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/Card%C3%A1pio-dc2626?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Cardápio" />
+      <br /><br />
+      <sub>Aplicação de cardápio digital.</sub>
+      <br /><br />
+    </td>
+    <td align="center" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/CINEWOODY-b91c1c?style=for-the-badge&logo=themoviedatabase&logoColor=white&labelColor=0d1117" alt="CINEWOODY" />
+      <br /><br />
+      <sub>Aplicação inspirada em streaming, com filtros interativos e consumo da API do TVMaze.</sub>
+      <br /><br />
+    </td>
+    <td align="center" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/NOX-ef4444?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117" alt="NOX" />
+      <br /><br />
+      <sub>Conceito de rede social com mapeamento de relacionamentos e estruturação de dados.</sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">Contato</h2>
+
+<div align="center">
+
+<a href="mailto:maria2007gabih@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="E-mail" />
+</a>
+<a href="https://wa.me/5522981274142">
+  <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=ef4444" alt="WhatsApp" />
+</a>
+<a href="https://www.linkedin.com/search/results/all/?keywords=maria%20gabriela%20de%20lima%20bonifacio%20crescencio">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ef4444" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>feito com ❤️ por <a href="https://github.com/Gabislkx">Gabislkx</a></sub>
+
+</div>
