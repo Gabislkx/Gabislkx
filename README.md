@@ -51,7 +51,7 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/Gabislkx/Gabislkx/output/github-contribution-grid-snake-dark.svg" alt="Calendário de contribuições" width="95%" />
+<img src="https://ghchart.rshah.org/ef4444/Gabislkx" alt="Calendário de contribuições" width="95%" />
 
 </div>
 
