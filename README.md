@@ -1,4 +1,7 @@
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/Gabislkx/Gabislkx/main/banner-gabislkx-perigo.gif" alt="Gabislkx" width="100%" />
+
 <br /><br />
 
 <h2>Maria Gabriela Bonifácio</h2>
@@ -18,6 +21,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Gabislkx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&title_color=ef4444&icon_color=dc2626&text_color=c9d1d9&ring_color=ef4444" alt="GitHub Stats de Gabislkx" />
       <br /><br />
       <img src="https://streak-stats.demolab.com?user=Gabislkx&theme=radical&hide_border=true&background=0d1117&ring=ef4444&fire=dc2626&currStreakLabel=ef4444&currStreakNum=ef4444&sideNums=ef4444&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak de Gabislkx" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Gabislkx/Gabislkx/main/lateral-gabislkx-perigo.gif" alt="Alerta de perigo" width="400" />
     </td>
   </tr>
 </table>
